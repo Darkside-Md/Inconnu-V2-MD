@@ -8,7 +8,7 @@
 
 .𝐅𝐎𝐑𝐊 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎
    
-<a href='https://github.com/Darkside-Md/Inconnu-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a
+<a href='https://github.com/Darkside-Md/Inconnu-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 
 #### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [INCONNU-V2-MD](https://github.com/Darkside-Md/Inconnu-V2-MD) ON ANY TERMINAL
 ```
