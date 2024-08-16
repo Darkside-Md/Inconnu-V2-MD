@@ -30,7 +30,7 @@ sudo yarn global add pm2
 git clone https://github.com/type-your-username-here/Venom-2
 ```
 ```
-cd Venom-2
+cd Inconnu-V2-MD 
 yarn install 
 npm start
 ```
