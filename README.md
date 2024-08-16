@@ -132,7 +132,6 @@ npm i -g forever && forever index.js && forever save && forever logs
 
 1. If You don't have a account in Heroku. Create a account.
     <br>
-<a href='https://signup.heroku.com/' 
 
 2. Now Deploy
     <br>
@@ -152,7 +151,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 - *
 
 
-<h2 align="center"> 🎗️ *stars INCONNU-MD*
+<h2 align="center"> 🎗️ *INCONNU-V2-MD*
 </h2>
 
  
