@@ -2,7 +2,7 @@
 ![a-cyborg-warrior-with-leather-black-mask-tall-long-arms-v0-n2eacjvdnbsb1](https://github.com/user-attachments/assets/57bf4965-d0df-4430-bc72-fb20587d61ed)
 
 # Inconnu-V2-MD
-WhatsApp bug X Crash-Bot
+🦠 WhatsApp bug X Crash-Bot 🦠
 
 ### 1. <a href="https://github.com/Darkside-Md/Inconnu-V2-MD/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Venom-2" width="70"></a>
 
@@ -123,3 +123,38 @@ npm i -g forever && forever index.js && forever save && forever logs
 <a href="https://whatsapp.com/channel/0029ValSilu9Bb62q8tgBr3p"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/@inconnutech"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@inconnutech" /><br>
 <p align="center">
+
+## DEPLOY TO HEROKU 
+
+1. If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://signup.heroku.com/' 
+
+2. Now Deploy
+    <br>
+<a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+
+#### DEPLOY TO KOYEB
+
+1. If You don't have a account in Koyeb. Create a account.
+    <br>
+<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=koyeb' width="96.35" height="28"/></a></p>
+
+2. Now Deploy
+    <br>
+<a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SuhailTechInfo/Suhail-black?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+
+- *
+
+
+<h2 align="center"> 🎗️ *stars INCONNU-MD*
+</h2>
+
+ 
+### `🧡 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰
+- *** 🐞🐞🦠🦠🦠🐞🐞***
+
+
+
+
