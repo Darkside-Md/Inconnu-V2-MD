@@ -94,7 +94,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
-<h2 align="center"> 🐞 Windows Cmd & Vs 🐞</h2>
+<h2 align="center"> 🐞 Cmd delta crash 🐞</h2>
 
 - [Download ffmpeg](https://ffmpeg.org/download.html#build-windows) and set the path
 - [Download wget](https://eternallybored.org/misc/wget/releases/) and set the path
