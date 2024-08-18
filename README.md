@@ -6,12 +6,17 @@
                      # Inconnu-V2-MD
                🦠 WhatsApp bug X Crash-Bot 🦠
   
+
 #### 𝐒𝐄𝐓𝐔𝐏
 
-.𝐅𝐎𝐑𝐊 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎
+1.𝐅𝐎𝐑𝐊 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎
    
-<a href='https://github.com/Darkside-Md/Inconnu-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
+<a href='https://github.com/Darkside-Md/Inconnu-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
+
+2.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑 1
+ 
+<a href='https://inconnu-v2-md-shky.onrender.com//' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 #### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [INCONNU-V2-MD](https://github.com/Darkside-Md/Inconnu-V2-MD) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
